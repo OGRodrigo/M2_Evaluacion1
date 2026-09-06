@@ -74,27 +74,27 @@ Cada producto contiene:
 
 ### Vista general
 
-![Vista general de Level Up Store](docs/screenshots/captura_demo.png)
+![Vista general de Level Up Store](docs/screenshots/captura_demo.JPG)
 
 ### Header
 
-![Header de Level Up Store](docs/screenshots/headre_captura.png)
+![Header de Level Up Store](docs/screenshots/header_captura.JPG)
 
 ### Cards de productos
 
-![Cards de videojuegos de Level Up Store](docs/screenshots/crad_captura.png)
+![Cards de videojuegos de Level Up Store](docs/screenshots/card_capturas.JPG)
 
 ### Footer
 
-![Footer de Level Up Store](docs/screenshots/footer_captura.png)
+![Footer de Level Up Store](docs/screenshots/footer_captura.JPG)
 
 ### Vista Mobile
 
-![Vista Mobile de Level Up Store](docs/screenshots/mobile_captura.png)
+![Vista Mobile de Level Up Store](docs/screenshots/mobile_captura.JPG)
 
 ### Segunda vista Mobile
 
-![Segunda vista Mobile de Level Up Store](docs/screenshots/mobile_captura_2.png)
+![Segunda vista Mobile de Level Up Store](docs/screenshots/mobile_captura2.JPG)
 
 ## 👨‍💻 Autor
 
