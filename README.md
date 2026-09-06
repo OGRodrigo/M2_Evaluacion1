@@ -70,6 +70,36 @@ Cada producto contiene:
 - Git
 - GitHub
 
+
+## ▶️ Cómo ejecutar el proyecto
+
+1. Clonar el repositorio:
+
+```bash
+git clone https://github.com/OGRodrigo/M2_Evaluacion1.git
+```
+
+2. Entrar a la carpeta del proyecto:
+
+```bash
+cd M2_Evaluacion1
+```
+
+3. Instalar las dependencias:
+
+```bash
+npm install
+```
+
+4. Ejecutar el proyecto:
+
+```bash
+npm run dev
+```
+
+5. Abrir en el navegador la dirección indicada por Vite.
+
+
 ## 📸 Capturas de pantalla
 
 ### Vista general
